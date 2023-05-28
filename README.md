@@ -5,9 +5,10 @@ Implementación de la solución al problema de *TOPS SW Technical exercise.docx*
 con una única línea. Se reorganizan todos los carácteres, sin substitución de ninguno.
 
 ## Funciona para los parámetros dados:
-    * **Entrada:** document.txt
-    * **Carácteres mínimos por línea:** 80
-    * **Líneas por página:** 25
+
+* **Entrada:** document.txt
+* **Carácteres mínimos por línea:** 80
+* **Líneas por página:** 25
 
 Archivo de salida: *output.txt*
 
